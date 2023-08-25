@@ -23,7 +23,7 @@ Mi sitio web está construido utilizando las siguientes tecnologías:
 
 ## Cómo Usar
 
-1. Clona este repositorio: `git clone https://github.com/JuanGutierrez95/JuanGutierrez.github.io.git`
+1. Clona este repositorio: `git clone https://github.com/JuanGutierrez95/Project.git`
 2. Abre el archivo `index.html` en tu navegador para ver el sitio.
 
 ## Contacto
